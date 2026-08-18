@@ -33,7 +33,7 @@ Screenshots coming soon.
 
 ## Demo
 
-Live demo link coming soon.
+[View the live demo](https://magical-melomakarona-9fdf2d.netlify.app/)
 
 ## Future Roadmap
 
