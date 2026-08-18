@@ -29,7 +29,20 @@ The MVP was built as a web application using AI-assisted coding tools. I focused
 
 ## Screenshots
 
-Screenshots coming soon.
+### Dashboard
+Personalized status summary and next actions.
+
+![Dashboard](Dashboard.png)
+
+### Timeline
+Upcoming immigration milestones and reminders.
+
+![Timeline](Timeline.png)
+
+### Ask Navigator
+Contextual Q&A experience.
+
+![Ask Navigator](Ask-navigator.png)
 
 ## Demo
 
